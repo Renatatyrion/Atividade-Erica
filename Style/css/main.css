@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v7_37 {
+  width: 100%;
+  height: 2400px;
+  background: rgba(240,231,231,0.36000001430511475);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_38 {
+  width: 100%;
+  height: 96px;
+  background: rgba(205,192,192,0.4399999976158142);
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  overflow: hidden;
+}
+.v58_3 {
+  width: 100%;
+  color: rgba(242,13,13,1);
+  position: absolute;
+  top: 90px;
+  left: 17px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v15_41 {
+  width: 100%;
+  height: 107px;
+  background: rgba(42,27,27,0.17000000178813934);
+  opacity: 1;
+  position: absolute;
+  top: 2367px;
+  left: 0px;
+  overflow: hidden;
+}
+.v46_4 {
+  width: 525px;
+  color: rgba(4,4,4,1);
+  position: absolute;
+  top: 631px;
+  left: 584px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v46_5 {
+  width: 87%;
+  color: rgba(4,4,4,1);
+  position: absolute;
+  top: 870px;
+  left: 160px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v47_6 {
+  width: 294px;
+  color: rgba(4,4,4,1);
+  position: absolute;
+  top: 1147px;
+  left: 700px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v47_8 {
+  width: 100%;
+  color: rgba(3,3,3,1);
+  position: absolute;
+  top: 364px;
+  left: 60px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v47_19 {
+  width: 354px;
+  color: rgba(4,4,4,1);
+  position: absolute;
+  top: 1814px;
+  left: 699px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v47_17 {
+  width: 87%;
+  color: rgba(4,4,4,1);
+  position: absolute;
+  top: 1304px;
+  left: 70px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}

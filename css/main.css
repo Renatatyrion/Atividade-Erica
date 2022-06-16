@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+}
+.One {
+  width: 100%;
+  height: 2440px;
+  background: rgba(92, 90, 90, 0);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v20_47 {
+  width: 100%;
+  height: 21px;
+  background: rgba(201,186,186,0.3700000047683716);
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_28 {
+  width: 100%;
+  height: 99px;
+  background: rgba(207,195,195,0.41999998688697815);
+  opacity: 1;
+  position: absolute;
+  top: 294px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_30 {
+  width: 250px;
+  color: rgba(167,20,20,1);
+  position: absolute;
+  top: 316px;
+  left: 81px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v7_31 {
+  width: 250px;
+  color: rgba(164,16,16,1);
+  position: absolute;
+  top: 310px;
+  left: 580px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v7_34 {
+  width: 250px;
+  color: rgba(208,22,22,1);
+  position: absolute;
+  top: 288px;
+  left: 1103px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v7_36 {
+  width: 100%;
+  height: 93px;
+  background: rgba(56,53,53,0.23000000417232513);
+  opacity: 1;
+  position: absolute;
+  top: 2379px;
+  left: 0px;
+  overflow: hidden;
+}
+.v39_3 {
+  width: 570px;
+  height: 600px;
+  background: url("../img/All.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 540px;
+  left: 750px;
+  border-top-left-radius: 68px;
+  border-top-right-radius: 68px;
+  border-bottom-left-radius: 68px;
+  border-bottom-right-radius: 68px;
+  overflow: hidden;
+}
+.v20_47 {
+  width: 610px;
+  height: 584px;
+  background: url("../img/Full.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1436px;
+  left: 310px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v39_2 {
+  width: 724px;
+  height: 210px;
+  background: url("../img/One.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 475px;
+  border: 1px solid rgba(225,20,20,0.03999999910593033);
+  overflow: hidden;
+}
+.v39_5 {
+  width: 595px;
+  height: 610px;
+  background: url("../img/Luffy.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 516px;
+  left: 48px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  overflow: hidden;
+}
+.v54_29 {
+  width: 348px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1213px;
+  left: 929px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v54_31 {
+  width: 256px;
+  color: rgba(22,21,21,1);
+  position: absolute;
+  top: 1213px;
+  left: 142px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v54_32 {
+  width: 434px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2073px;
+  left: 398px;
+  font-family: Inter;
+  font-weight: Light;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
